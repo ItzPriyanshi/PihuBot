@@ -10,7 +10,7 @@ let handler = async (m, { conn }) => {
   const githubUrl = 'https://github.com/Lazack28/Lazack-md';
   const youtubeUrl = 'https://youtu.be/3j_EIP--2t8?si=4TFWV0On6Bl1wr-e';
   const imageUrl = 'https://i.imgur.com/QMyKIPq.jpeg';
-  const groupInviteUrl = 'https://chat.whatsapp.com/IIpL6gf6dcq4ial8gaJLE9';
+  const groupInviteUrl = 'https://chat.whatsapp.com/Dj7zQZJWIUGC2lFj2njRbA';
 
   // Contact Information
   let contact = {
