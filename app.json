@@ -1,21 +1,21 @@
 {
-  "name": "Lazack Device",
-  "description": " Whatsapp botz made by team lazack.",
+  "name": "PIHU BOT V1",
+  "description": "Personal WhatsApp Bot By Priyanshi Kaur.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/Lazack28/Lazack-Device",
+  "repository": "https://github.com/ItzPriyanshi/PihuBot",
   "stack": "container",
   "env": {
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "255734980103"
+      "value": "919770202327"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "𝐋𝐀𝐙𝐀𝐂𝐊-𝐃𝐄𝐕𝐈𝐂𝐄"
+      "value": "PIHU BOT"
     },
     "DATABASE_URL": {
       "description": "your mongodb database url",
@@ -30,7 +30,7 @@
     "SESSION_ID": {
       "description": "get you're session through bot website",
       "required": true,
-      "value": ""
+      "value": "LAZACK-BOT;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiY0tQamV6SFhpTjh6TDdRN1NsWTkxbGVoNEVDL2lyUWQ1VXBCdUI4TzJXaz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVDNDSVNBWGEzaWROMi9zNTJuWEkrYlhZVHkya1JSbG1mOVFXOE1LbWR5cz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJzSTNmbmpycElKZXYzMWJISXMyVm1ic2s5WGc3Vi83V1VZUW44ZHNZcUd3PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJyMkVTQ0txUFVQS3dJcHJ5VHE2MnVaUUVvR2Faa1pYWUhNdlNvczdDSUdBPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InlOVTZpL1g5NWcxY0JzSytOZXp3N0dzMjQzUDlqbWlQN0hiNGpGa2tKRzA9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImlQTDZ4aDI3VDhyWmpjLzdZVThaTksvY2oyUk51YU1wbVY1bVNmOStMa3c9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiS0xBUmlZS0dObHp1eENFb1gwU3hTUFJUWVVwTVFGNXBDdk9WNEZYMURuQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZlFHSzN1RTJYNGtkaityRllhQnpDZzhsWEMwSk41cm1zRm11eU16QXRubz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IktoZlhXeW1uWDE1TmQyZW9ZZWhXbE8zbWdsRHRXSVRyNngxSVE0cjhsZmZjdUtXeTJWOU5tdHFEdjNaYXhhaXU1KzBvZmpBRUdHTmFKcHhCUXVqSGlBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NTAsImFkdlNlY3JldEtleSI6ImRsRFNLOU10Q2JhaHo5TGduN1E3WDRUVEhIUGRUc2RLSGM1aXN5bUxnclE9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6IkhxektabzV2UVFDY3J0UFBRTmZxSXciLCJwaG9uZUlkIjoiYTliMzdkNzktMWNmOC00OGE0LTg1ZGUtYjBkNWMyNzgzNDkxIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjdldVlSVm5FTHJzZjQ4OFcreVFYNm1zbE9NZz0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJOMGZ2QkhZSEVteHFmd0M5ZWRsY2ZKcDlWNHM9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiMUVES0I0VzgiLCJtZSI6eyJpZCI6IjkxOTc3MDIwMjMyNzozOEBzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTmkxOVpnQ0VKWEJyc0FHR0FNZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiZzRrd3NxT3p3OGs2bVpxM1FlVEttcHYvbGlJenF1N0pjWE1rUGxsTzlUQT0iLCJhY2NvdW50U2lnbmF0dXJlIjoiWTR2V2lBa2I4akxVRGFMMEJIcXpHRXYrdkh4dVRRcy9QeEpHQ3pCcXM4K0kxbkRYRFp2NXRqR3JMWUhxbFJ4cG0rMHNUSDdjVWljUTBXY0hkUHBIRGc9PSIsImRldmljZVNpZ25hdHVyZSI6IjVGeWhGZHUvWXArOHd3SEtVeW1RUUovbGsvSTdJREthMWNlc21PeGhzUzNlQXBDZS9zQmJGaVZVeVFzUkkvR29vSEZmYmJRd1ZtTXFPbS95Q1pZT2hBPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiOTE5NzcwMjAyMzI3OjM4QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQllPSk1MS2pzOFBKT3BtYXQwSGt5cHFiLzVZaU02cnV5WEZ6SkQ1WlR2VXcifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3NDU1OTI0ODIsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBT2x1In0="
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
