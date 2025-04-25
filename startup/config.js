@@ -24,11 +24,11 @@ for (let i = 0; i < ownerlist.length; i += 2) {
     global.owner.push(owner);
 }
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "919770202327" //put your bot number here
 
 global.mods = ['255734980103', '255758868502']
 global.prems = ['255734980103', '255758868502', '255734980103']
-global.allowed = ['255734980103', '255734980103']
+global.allowed = ['255734980103', '919770202327']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -45,8 +45,8 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 
-global.rcanal = 'https://whatsapp.com/channel/0029ValRlNGCXC3EussN4b2E'
-global.canal = 'https://whatsapp.com/channel/0029ValRlNGCXC3EussN4b2E'
+global.rcanal = 'https://whatsapp.com/channel/0029Vb18kvjFsn0gO6BjzW1Y'
+global.canal = 'https://whatsapp.com/channel/0029Vb18kvjFsn0gO6BjzW1Y'
 
 
 global.APIs = {
@@ -78,14 +78,14 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'true'
-global.packname = '𝙇𝙖𝙯𝙖𝙘𝙠'
-global.author = '𝙡𝙖𝙯𝙖𝙘𝙠'
+global.packname = '𝐏𝐢𝐡𝐮𝐁𝐨𝐭'
+global.author = '𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡𝐢'
 global.menuvid = ''
 global.igfg = ''
 global.dygp = ''
-global.fgsc = 'https://github.com/Lazack28/Lazack-Device'
-global.fgyt = 'https://youtube.com/@lazaromtaju'
-global.fgpyp = 'https://youtube.com/@lazaromtaju'
+global.fgsc = 'https://github.com/ItzPriyanshi/PihuBot'
+global.fgyt = 'https://youtube.com/@PriyanshiKaurJi'
+global.fgpyp = 'https://youtube.com/@PriyanshiKaurJi'
 global.fglog = ''
 global.thumb = fs.readFileSync(path.join(__dirname, '..', 'Botify', 'lazack.jpg'));
 
