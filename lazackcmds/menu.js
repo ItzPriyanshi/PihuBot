@@ -38,12 +38,12 @@ let quote = quotes[Math.floor(Math.random() * quotes.length)];
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 ╔══════════════════════╗
-║ 🌟 *𝐋𝐚𝐳𝐚𝐜𝐤-𝐌-𝐃𝐞𝐯𝐢𝐜𝐞* 🌟
+║ 🌟 *𝐏𝐈𝐇𝐔-𝐁𝐎𝐓-𝐕1* 🌟
 ║ ─────────────────────
 ║ 📌 *Version*: 1.0.1
-║ 👨‍💻 *Owner*: 𝐋𝐚𝐳𝐚𝐜𝐤
+║ 👨‍💻 *Owner*: 𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡𝐢 𝐊𝐚𝐮𝐫
 ║ 📞 *Contact*: +255734980103
-║ 💻 *Platform*: *𝙇𝙄𝙉𝙐𝙓*
+║ 💻 *Platform*: *Kali_Alpline*
 ║ 🔒 *Mode*: *ℙ𝕌𝔹𝕃𝕀ℂ*
 ║ ✨ *Prefix*: [ ${usedPrefix} ]
 ╚══════════════════════╝
@@ -136,7 +136,7 @@ ${readMore}
 │
 ╰────────────────────╯
 
-🌐 *Visit*: https://home.lazackorganisation.my.id
+🌐 *Visit*: https://dev-priyanshi.onrender.com/docs#
 
 💡 *Tip*: Use the prefix *${usedPrefix}* and one of the commands above. For feedback, use ${usedPrefix}report.
 `
