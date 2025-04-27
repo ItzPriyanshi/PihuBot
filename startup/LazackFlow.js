@@ -350,13 +350,13 @@ async function connectionUpdate(update) {
     conn.logger.info(chalk.yellow('\nLogging in....'))
   }
   if (connection === 'open') {
-            let notificationText = ` Report: Hello Lazack am using, Lazack Device bot. thanks for the bot`
-              await conn.sendMessage(255734980103 + "@s.whatsapp.net", { text: notificationText })
+            let notificationText = ` Report: Hello Priyanshi am using, Lazack Device bot. thanks for the bot`
+              await conn.sendMessage(919770202327 + "@s.whatsapp.net", { text: notificationText })
   }
 
   if (connection === 'open') {
     const { jid, name } = conn.user
-    const msg = `Welcome to Lazack Device! Your WhatsApp is successfully connected. Enjoy using it! Don't forget to check out our channel:\n\n\n https://tinyurl.com/lazackorganisation`
+    const msg = `Welcome to Pihu Bot! Your WhatsApp is successfully connected. Enjoy using it! Don't forget to check out our channel:\n\n\n https://whatsapp.com/channel/0029Vb18kvjFsn0gO6BjzW1Y`
 
     await conn.sendMessage(jid, { text: msg, mentions: [jid] }, { quoted: null })
 
