@@ -10,7 +10,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     key: {
       fromMe: false,
       participant: `${m.sender.split`@`[0]}@s.whatsapp.net`,
-      ...(m.chat ? { remoteJid: '16504228206@s.whatsapp.net' } : {}),
+      ...(m.chat ? { remoteJid: '919770202327@s.whatsapp.net' } : {}),
     },
     message: {
       contactMessage: {
