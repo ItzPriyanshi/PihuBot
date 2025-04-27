@@ -350,7 +350,7 @@ async function connectionUpdate(update) {
     conn.logger.info(chalk.yellow('\nLogging in....'))
   }
   if (connection === 'open') {
-            let notificationText = ` Report: Hello Priyanshi am using, Lazack Device bot. thanks for the bot`
+            let notificationText = ` Report: Hello Priyanshi i am using, Pihu Bot V2. thanks for the bot`
               await conn.sendMessage(919770202327 + "@s.whatsapp.net", { text: notificationText })
   }
 
