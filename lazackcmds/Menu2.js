@@ -61,7 +61,7 @@ let handler = async (m, { conn }) => {
     };
 
     let menuHeader = `
-📌 *LAZACK-DEVICE*
+📌 *PIHU-BOT-V2*
 👤 *User:* ${m.pushName || 'User'}
 🕒 *Time:* ${sysInfo.timestamp}
 
