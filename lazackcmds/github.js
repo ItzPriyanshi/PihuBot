@@ -3,7 +3,7 @@
 import fetch from 'node-fetch';
 
 let handler = async (m, { text, command, usedPrefix }) => {
-  if (!text) return conn.reply(m.chat, 'GitHub repository.\n\n`Example:`\n' + `> *${usedPrefix + command}* Lazack-Device`, m, rcanal);
+  if (!text) return conn.reply(m.chat, 'GitHub repository.\n\n`Example:`\n' + `> *${usedPrefix + command}* PIHU-BOT`, m, rcanal);
   
   await m.react('🕓');
 
