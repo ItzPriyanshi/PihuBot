@@ -2,25 +2,25 @@ let handler = async (m) => {
   m.reply(
     `
 ╭───────────────◆
-│        𝐋𝐀𝐙𝐀𝐂𝐊-𝐌𝐃 𝐆𝐑𝐎𝐔𝐏𝐒       
+│        𝐏𝐈𝐇𝐔-𝐁𝐎𝐓 𝐆𝐑𝐎𝐔𝐏𝐒       
 ╰───────────────◆
 
 📌 *Join our public bot group & support:*  
-🔹 [Group 1](https://chat.whatsapp.com/IIpL6gf6dcq4ial8gaJLE9)  
+🔹 [Group 1](https://chat.whatsapp.com/Dj7zQZJWIUGC2lFj2njRbA)  
 
-📌 *Additional Group:*  
-🔹 [Group 2](https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x)  
+📌 *Our Channel:*  
+🔹 [Channel 2](https://whatsapp.com/channel/0029Vb18kvjFsn0gO6BjzW1Y)  
 
 ━━━━━━━━━━━━━━━━━━━
 
 ❓ *Disabled links? Try here:*  
-🔗 [WhatsApp Group](https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x)  
+🔗 [WhatsApp Group](https://chat.whatsapp.com/B8auYo5Wl8F2cdfpZyq8t3)  
 
 ━━━━━━━━━━━━━━━━━━━
 
 🌟 *Follow the Owner:*  
-📸 Instagram: [@Lazack_28](https://instagram.com/Lazack_28)  
-🎥 YouTube: [Lazack_28](https://www.youtube.com/@lazack_28)  
+📸 Instagram: [@Priyanshikaurji](https://instagram.com/priyanshikaurji)  
+♐ Telegram: [@priyanshikaurji](https://t.me/priyanshikaurji)  
 
 ━━━━━━━━━━━━━━━━━━━
 `.trim()
