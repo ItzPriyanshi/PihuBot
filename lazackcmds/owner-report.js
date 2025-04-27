@@ -18,7 +18,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
   `.trim();
 
   // Send report to owner
-  conn.reply('9770202327@s.whatsapp.net', reportMessage, m);
+  conn.reply('919770202327@s.whatsapp.net', reportMessage, m);
 
   // Confirmation message to user
   conn.reply(m.chat, `✅ *Your report has been successfully sent to the Owner!*\n\n📌 *Thank you for your feedback! We will take the necessary action.*`, m);
