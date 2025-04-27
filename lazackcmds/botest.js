@@ -7,7 +7,7 @@ let handler = async (m, { conn }) => {
         m.chat,
         `*HELLO DID YOU CALL OUT FOR ME*      
         @${m.sender.split('@')[0]} 
-        *AM LAZACK MD USER WHATSAPP BOT HOW CAN I ASSIST YOU TODAY/TONIGHT? 😇*`.trim(),
+        *I AM PIHU WHATSAPP BOT HOW CAN I ASSIST YOU TODAY/TONIGHT? 😇*`.trim(),
         igfg,
         null,
         [
