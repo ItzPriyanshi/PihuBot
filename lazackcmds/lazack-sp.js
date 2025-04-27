@@ -5,7 +5,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     return m.reply(`Enter the Spotify track URL or title!\nExample: *${usedPrefix + command} Faded*`);
   }
 
-  await m.reply("🔄 🎧 Hang tight! Lazack Device bot is fetching your track direct from Spotify! 🤩...");
+  await m.reply("🔄 🎧 Hang tight! Pihu Bot is fetching your track direct from Spotify! 🤩...");
 
   try {
     // Spotify track search
@@ -18,7 +18,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     }
 
     // Send track info message
-    const trackInfo = `_🎵 LAZACK DEVICE TRACK 🎵_
+    const trackInfo = `_🎵 PIHU BOT TRACK 🎵_
 
 - *Title*: ${trackData.title}
 - *Artist*: ${trackData.artist}
@@ -33,7 +33,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
           externalAdReply: {
             showAdAttribution: true,
             title: trackData.title,
-            body: "LAZACK DEVICE SEARCH & DOWNLOAD",
+            body: "PIHU BOT SEARCH & DOWNLOAD",
             thumbnailUrl: trackData.thumbnail,
             mediaType: 1,
             renderLargerThumbnail: true,
