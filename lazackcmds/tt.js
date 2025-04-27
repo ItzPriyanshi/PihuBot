@@ -30,7 +30,7 @@ let handler = async (_0x2b04cc, {
 }) => {
   if (!_0x2e29a1 && !(_0x2b04cc.quoted && _0x2b04cc.quoted.text)) {
     if (!_0x2e29a1) {
-      return _0x2b04cc.reply("Reply with message or type .tts hello mr lazack device");
+      return _0x2b04cc.reply("Reply with message or type .tts Hello Miss Priyanshi");
     }
   }
   if (!_0x2e29a1 && _0x2b04cc.quoted && _0x2b04cc.quoted.text) {
